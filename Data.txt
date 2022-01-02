@@ -1,0 +1,4 @@
+The data I used is way too large of a file to send/submit even when compressed.
+
+It is from the provided data on http://snap.stanford.edu/data/ , more specifically from the Amazon movie reviews on http://snap.stanford.edu/data/web-Movies.html .
+
